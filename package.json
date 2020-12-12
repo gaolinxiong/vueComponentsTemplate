@@ -1,6 +1,6 @@
 {
   "name": "vuecomponentstemplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue开发组件模板（与本人开发的pkg-cli一起使用效果更佳）",
   "main": "dist/btn.js",
   "scripts": {
