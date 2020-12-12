@@ -1,6 +1,6 @@
 <template>
   <div class="btn">
-    <button>{{text}}</button>
+    <button>{{text}}321</button>
   </div>
 </template>
 
@@ -21,6 +21,8 @@ export default {
   }
 }
 </script>
-<style lang="less">
-@import './index.less';
+<style>
+.btn {
+  background-color: blue;
+}
 </style>
